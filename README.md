@@ -6,7 +6,8 @@
 
 ### Εργαλείο διαχείρισης ονόματος BT-24 Bluetooth module μέσω του ρομπότ R2
 
-[![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)](#)
+[![Version](https://img.shields.io/github/v/release/vmihas/bt24-manager?style=flat-square)](https://github.com/vmihas/bt24-manager/releases)
+[![Downloads](https://img.shields.io/github/downloads/vmihas/bt24-manager/total?style=flat-square)](https://github.com/vmihas/bt24-manager/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/Firmware-Arduino%20%2F%20AVR-00979D?style=flat-square&logo=arduino&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
